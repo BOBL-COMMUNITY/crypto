@@ -1,0 +1,17 @@
+{
+    "symbol": "BOBL",
+    "name": "BOBL",
+    "decimals": 9,
+    "image": "https://cdn.githubraw.com/BOBL-COMMUNITY/crypto/391072def8817c273fc16f0e04309006929cb8a5/logo.png",
+    "tags": [
+      "meme-token",
+      "social-token",
+      "community-token"
+    ],
+    "extensions": {
+      "twitter": "https://twitter.com/BOBL_community",
+      "website": "https://www.bobl.net",
+      "telegram": "https://t.me/bobl_community",
+      "discord": "https://discord.gg/Z25eW9b4"
+      }
+    }
